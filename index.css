@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    padding: 4% 2%;
+}
+
+#main{
+    background-color: #d3bea6;
+    padding: 0 3%;
+}
+
+header{
+    text-align: center;
+    padding: 3%;
+}
+
+#title{
+    font-size: 2rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#main-text{
+    font-size: 1.2rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* IMAGE SECTION */
+
+#img_div{
+    background-color: #fff;
+    padding: 7% 5%;
+}
+
+#image{
+    width: 100%;
+    height: 100%;
+}
+
+#img-caption{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#tribute-info{
+    padding: 7% 20%;
+}
+
+#tribute-info h3{
+    font-size: 1.7rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 30px;
+}
+
+li{
+    font-size: 1rem;
+    margin-bottom: 20px;
+}
+
+.lessons{
+    font-style: italic;
+    margin-top: 20px;
+}
+
+.lessons p:last-child{
+    margin-top: 20px;
+}
+
+#more-info{
+    margin-top: 30px;
+    text-align: center;
+}
